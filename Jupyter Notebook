@@ -1,0 +1,31 @@
+myint=200
+print(myint)
+a=20
+c=a*100
+print(c)
+myval=8
+if myval>0: print("it is a positive number")
+    Else: print("It is is a negative number")
+myval=8
+if myval>0:
+        print("It is a positive number")
+else:
+        print("It is is a negative number")
+myarray=[20, 10, 44, 928, 200]
+for x in myarray:
+    print(x)
+shopping_list = ["bread", "water", "chips", "candy", "soda"]
+for x in shopping_list:
+  print(x)
+  if x == "chips":
+    break
+Score = 60
+while Score < 90:
+  print(Score)
+  Score += 5
+myval = 45
+while myval < 90:
+  print(myval)
+  if myval > 80:
+    break
+  myval += 8
